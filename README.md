@@ -50,6 +50,7 @@ Our model is U-Net architecture which was written in Keras with Tensorflow backe
 ### References
 
 - Ronneberger, O. et al. “U-Net: Convolutional Networks for Biomedical Image Segmentation.” MICCAI (2015).
+- Duan, Kaiwen et al. “CenterNet: Keypoint Triplets for Object Detection.” 2019 IEEE/CVF International Conference on Computer Vision (ICCV) (2019): 6568-6577.
 - Massachusetts Buildings Dataset - https://www.cs.toronto.edu/~vmnih/data/
 - Nice agriculture plot datasets
   	- Netherlands LPIS agricultural field boundaries - https://www.pdok.nl/introductie/-/article/basisregistratie-gewaspercelen-brp-
