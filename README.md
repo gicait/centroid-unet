@@ -5,10 +5,12 @@
 Centroid-UNet is deep neural network model to detect centroids from satellite images. We have tested this model with two case studies (building centroid detection and agriculture plot centroid detection). This network is based on classic U-Net sematic segmentation architecture. Satellite RGB images are used as input data for the model. And images generated with Gaussians surrounding centroids of instances are used as target for the model. Sample input and prediction from the model is shown in below figure.
 
 <p align="center">
+<b>Sample Input</b>
 <img src="./graphics/sample_input.png" alt="sample_input" width="40%"/>
 </p>
 
 <p align="center">
+<b>Sample Prediction</b>
 <img src="./graphics/sample_pred.png" alt="sample_pred" width="40%"/>
 </p>
 
