@@ -21,17 +21,19 @@ Centroid-UNet is deep neural network model to detect centroids from satellite im
 		</p>
 		</td>
 	</tr>
+	<tr>
+		<td>
+		<p align="center">
+		<img src="./graphics/sample_input.png" alt="sample_input" width="75%"/>
+		</p>
+		</td>
+    		<td>
+		<p align="center">
+		<img src="./graphics/sample_pred.png" alt="sample_pred" width="75%"/>
+		</p>
+		</td>
+	</tr>
 </table>
-
-<p align="center"><b>Sample Input</b></p>
-<p align="center">
-<img src="./graphics/sample_input.png" alt="sample_input" width="40%"/>
-</p>
-
-<p align="center"><b>Sample Prediction</b></p>
-<p align="center">
-<img src="./graphics/sample_pred.png" alt="sample_pred" width="40%"/>
-</p>
 
 ### How to Use
 
