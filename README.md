@@ -28,6 +28,13 @@ Our model is U-Net architecture which was written in Keras with Tensorflow backe
 
 ### References
 
+- Ronneberger, O. et al. “U-Net: Convolutional Networks for Biomedical Image Segmentation.” MICCAI (2015).
+- Massachusetts Buildings Dataset - https://www.cs.toronto.edu/~vmnih/data/
+- Nice agriculture plot datasets
+  - Netherlands LPIS agricultural field boundaries - https://www.pdok.nl/introductie/-/article/basisregistratie-gewaspercelen-brp-
+	- Denmark LPIS agricultural field boundaries - https://kortdata.fvm.dk/download/Markblokke_Marker?page=MarkerHistoriske
+	- Luxembourg LPIS - https://data.public.lu/en/datasets/inspire-annex-ii-theme-land-cover-landcoverunit-land-parcel-identification-system-lpis-2017-reference-data-of-agricultural-parcels/
+
 
 
 
