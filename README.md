@@ -6,7 +6,7 @@ Centroid-UNet is deep neural network model to detect centroids from satellite im
 
 ### How to Use
 
-Input data are RGB satellite images. Target data can be given as JSON files with list of centroids points in each satellite image tiles. Sample data is also given with this resository. Surrounding lists of centroids points, Gaussians are generated and images are generated during preprocessing steps.
+Input data are RGB satellite images. Target data can be given as JSON files with list of centroids points in each satellite image tiles. Sample data is also given with this repository. Surrounding lists of centroids points, Gaussians are generated and images are generated during preprocessing steps.
 
 Model is simple U-Net architecture which was written in Keras with Tensorflow backend. You can modify the model according to your requirement as well.
 
