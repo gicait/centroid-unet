@@ -1,4 +1,4 @@
-# Centroid Unet - Locating Object Centroids in Satellite Images
+# Centroid UNet - Locating Object Centroids in Satellite Images
 
 ### Introduction
 
