@@ -33,7 +33,7 @@ Our model is U-Net architecture which was written in Keras with Tensorflow backe
 - Nice agriculture plot datasets
   	- Netherlands LPIS agricultural field boundaries - https://www.pdok.nl/introductie/-/article/basisregistratie-gewaspercelen-brp-
 	- Denmark LPIS agricultural field boundaries - https://kortdata.fvm.dk/download/Markblokke_Marker?page=MarkerHistoriske
-	- Luxembourg LPIS - https://data.public.lu/en/datasets/inspire-annex-ii-theme-land-cover-landcoverunit-land-parcel-identification-system-lpis-2017-reference-data-of-agricultural-parcels/
+	- Luxembourg LPIS agricultural field boundaries - https://data.public.lu/en/datasets/inspire-annex-ii-theme-land-cover-landcoverunit-land-parcel-identification-system-lpis-2017-reference-data-of-agricultural-parcels/
 
 
 
