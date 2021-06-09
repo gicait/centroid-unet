@@ -39,7 +39,7 @@ Centroid-UNet is deep neural network model to detect centroids from satellite im
 
 Input data are RGB satellite images. Target data can be given as JSON files with list of centroids points in each satellite image tiles. First Gaussians are generated around lists of centroids points, then images are generated as targets for the model during preprocessing steps (*/code/DataUtils.py*). If we use centroids as it is without Gaussians, training process will be challenging. Using Gaussians instead of just centroids make training process more stable. Radius of the Gaussian (in pixels) can be modified depending on the application to minimize overlapping. As example, in case of agriculture plot centroid case study, large radius can be used because typically agriculture plots are larger. On the other hand, small radius is recommended for building centroid case study. Few sample data is also given with this repository (*/code/data/MassachBuilding/* and */code/data/AgriPlot/*) to understand data format required to run. 
 
-Our model is U-Net architecture which was written in Keras with Tensorflow backend (*/code/Model.py*). You can modify the model according to your requirement as well.
+Our model is U-Net architecture which was written in Keras with Tensorflow backend (*/code/Model.py*). You can modify the model according to your requirement as well. Two Jupyter notebooks (*/code/Centroid-UNet_MassachBuilding.ipynb* and */code/Centroid-UNet_AgriPlot.ipynb*) were used to run two case studies (building centroid detection and agriculture plot centroid detection). If you are using this repository, you can start with one of these notebooks and adapt to your datasets.
 
 ### Libraries used
 - numpy
