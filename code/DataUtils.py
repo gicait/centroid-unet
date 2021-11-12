@@ -37,15 +37,3 @@ def centroids2Images(point_list, im_num_row, im_num_col, g_radius=20):
     temp_im = temp_im[g_radius:-g_radius, g_radius:-g_radius]
 
     return temp_im
-
-def centroids2ImagesWithoutGaussian(point_list, im_num_row, im_num_col):
-
-    temp_im = np.zeros((im_num_row, im_num_col))
-
-    for one_pnt in point_list:
-        pnt_row = int(one_pnt[0])
-        pnt_col = int(one_pnt[1])
-
-        temp_im[pnt_row-1,pnt_col-1] = 1
-
-    return temp_im
