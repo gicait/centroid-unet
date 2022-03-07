@@ -1,6 +1,6 @@
 # Centroid UNet - Locating Object Centroids in Aerial/Serial Images
 
-Paper (Proccedings of the 42nd Asian Conference on Remote Sensing, 2021, Can Tho city, Vietnam) - https://arxiv.org/abs/2112.06530
+__Paper (Proccedings of the 42nd Asian Conference on Remote Sensing, 2021, Can Tho city, Vietnam) - https://arxiv.org/abs/2112.06530 __
 
 ### Introduction
 
