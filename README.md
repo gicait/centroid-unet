@@ -1,5 +1,7 @@
 # Centroid UNet - Locating Object Centroids in Aerial/Serial Images
 
+Paper (Proccedings of the 42nd Asian Conference on Remote Sensing, 2021, Can Tho city, Vietnam) - https://arxiv.org/abs/2112.06530
+
 ### Introduction
 
 Centroid-UNet is deep neural network model to detect centroids from Aerial/Satellite images. We have tested this model with two case studies (building centroid detection and coconut tree centroid detection). This network is based on classic U-Net sematic segmentation architecture. In case of aerial/satellite image analysis (remote sensing), generation of exact shapes of objects is cumbersome task. And, most of application such as counting requires estimation of only locations of objects. Hence, locating objects centroids from aerial/satellite image is an easy solution for tasks where object exact shape is not necessary. Sample input and prediction from the model is shown in below figure.
